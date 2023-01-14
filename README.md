@@ -1,6 +1,6 @@
 
 # Velda  
-17 y.o. | Web, Discord bots Developer & Student
+18 y.o. | Web, Discord bots Developer & Student
 
 <a href="https://thevelda.eu"> <img src="https://img.shields.io/static/v1?label=Web&message=thevelda.eu&color=0055ff&style=venrav" alt="thevelda.eu"></a> 
 <a href="https://github.com/Veldik"> <img src="https://img.shields.io/github/followers/veldik.svg?style=venrav&label=GitHub&logo=github" alt="Veldik GitHub"></a> 
